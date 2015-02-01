@@ -1,0 +1,15 @@
+{
+  "name": "famous-timbre",
+  "version": "0.0.0",
+  "description": "Famo.us Timbre project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Andrew E. Rhyne",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.3.4",
+    "serve-static": "^1.8.1"
+  }
+}
